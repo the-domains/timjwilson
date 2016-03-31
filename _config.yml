@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+layout_spectrum: 0.781362
 opengraph:
   image: null
   type: null
@@ -12,27 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9408602
-  brandStrength: 0.8046595
-  lightness: 0.03942652
+  saturation: 0.5376344
+  brandStrength: 0.469534
+  lightness: 0.2741936
   brandColors:
-    - '#CFCFCF'
-    - '#333333'
-    - '#5C5C5C'
-  rhythmicContrast: 0.7473118
-typography_spectrum: 0.3960573
+    - '#FFFFFF'
+    - '#1E2016'
+    - '#65645C'
+    - '#90A4AC'
+    - '#C67742'
+  rhythmicContrast: 0.5268817
+typography_spectrum: 0.4121864
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9215273486915976
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: timjwilson
