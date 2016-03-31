@@ -1,9 +1,7 @@
+name: timjwilson
 favicon: null
 layout_spectrum: 0.781362
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.4121864
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5376344
-  brandStrength: 0.469534
-  lightness: 0.2741936
   brandColors:
     - '#FFFFFF'
     - '#1E2016'
     - '#65645C'
     - '#90A4AC'
     - '#C67742'
-  rhythmicContrast: 0.5268817
-typography_spectrum: 0.4121864
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: timjwilson
+  brandStrength: 0.8125
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.75
+purpose: []
