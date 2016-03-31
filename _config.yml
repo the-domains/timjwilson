@@ -1,0 +1,28 @@
+name: timjwilson
+favicon: null
+layout_spectrum: 0.9215273486915976
+typography_spectrum: 0.29154694732278585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6191871596965939
+  lightness: 0.01102819456718862
+  saturation: 0.8040780676528811
+  rhythmicContrast: 0.5140151204541326
+purpose: []
