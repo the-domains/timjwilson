@@ -1,7 +1,7 @@
 name: timjwilson
 favicon: null
-layout_spectrum: 0.7269
-typography_spectrum: 0.10031
+layout_spectrum: 0.85561
+typography_spectrum: 0.29586
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#ddcbb3'
     - '#c7a058'
   brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
