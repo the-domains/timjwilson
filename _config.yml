@@ -1,28 +1,38 @@
-name: timjwilson
-favicon: null
-layout_spectrum: 0.9215273486915976
-typography_spectrum: 0.29154694732278585
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6191871596965939
-  lightness: 0.01102819456718862
-  saturation: 0.8040780676528811
-  rhythmicContrast: 0.5140151204541326
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9408602
+  brandStrength: 0.8046595
+  lightness: 0.03942652
+  brandColors:
+    - '#CFCFCF'
+    - '#333333'
+    - '#5C5C5C'
+  rhythmicContrast: 0.7473118
+typography_spectrum: 0.3960573
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9215273486915976
+favicon: null
+name: timjwilson
